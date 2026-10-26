@@ -275,5 +275,34 @@
       }
     ],
     "offline": false
+  },
+  {
+    "run_at": "2026-10-27T06:38:05+08:00",
+    "agent": "assessor",
+    "brief": "briefs/2026-10-27-assess.md",
+    "brief_checked": true,
+    "sources": {
+      "ok": 0,
+      "total": 0,
+      "failures": []
+    },
+    "counts": {
+      "to_assess": 0,
+      "checked": 0,
+      "rechecks": 0,
+      "confirmed": 0,
+      "mismatch": 0,
+      "cannot_check": 0
+    },
+    "companies": [],
+    "headline": "Nothing to assess today: the watcher has not saved any results yet.",
+    "radar_check": {
+      "watch_run_at": "2026-10-27T06:10:25+08:00",
+      "watch_brief": "briefs/2026-10-27-watch.md",
+      "brief_says": null,
+      "saved_for_run": 0,
+      "match": null
+    },
+    "offline": false
   }
 ]
