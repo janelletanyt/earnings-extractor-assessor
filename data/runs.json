@@ -304,5 +304,79 @@
       "match": null
     },
     "offline": false
+  },
+  {
+    "run_at": "2026-10-27T16:58:26+08:00",
+    "agent": "watcher",
+    "brief": "briefs/2026-10-27-watch.md",
+    "brief_checked": true,
+    "sources": {
+      "ok": 19,
+      "total": 19,
+      "failures": []
+    },
+    "counts": {
+      "radar_new": 401,
+      "companies": 3,
+      "new": 5,
+      "saved": 5,
+      "no_new": 0,
+      "failed": 0
+    },
+    "radar": {
+      "ok": true,
+      "start": "2026-10-20",
+      "end": "2026-10-27",
+      "hits": 440,
+      "results_filings": 401,
+      "new": 401,
+      "watchlist_new": [
+        "Meta Platforms, Inc. (2026-10-21, 0001628280-26-066700)"
+      ],
+      "detail": null
+    },
+    "companies": [
+      {
+        "cik": "1652044",
+        "company": "Alphabet",
+        "status": "saved",
+        "accession": "0001652044-26-000066",
+        "release_date": "2026-07-22",
+        "period_label": "quarter ended 30 June 2026"
+      },
+      {
+        "cik": "1018724",
+        "company": "Amazon",
+        "status": "saved",
+        "accession": "0001018724-26-000024",
+        "release_date": "2026-07-30",
+        "period_label": "quarter ended 30 June 2026"
+      },
+      {
+        "cik": "1326801",
+        "company": "Meta Platforms",
+        "status": "saved",
+        "accession": "0001628280-26-066700",
+        "release_date": "2026-10-21",
+        "period_label": "quarter ended 30 September 2026"
+      },
+      {
+        "cik": "17843",
+        "company": "CARPENTER TECHNOLOGY CORP",
+        "status": "saved",
+        "accession": "0000017843-26-000049",
+        "release_date": "2026-10-22",
+        "period_label": "quarter ended 30 September 2026"
+      },
+      {
+        "cik": "912593",
+        "company": "SUN COMMUNITIES INC",
+        "status": "saved",
+        "accession": "0000912593-26-000272",
+        "release_date": "2026-10-26",
+        "period_label": "quarter ended 30 September 2026"
+      }
+    ],
+    "offline": false
   }
 ]

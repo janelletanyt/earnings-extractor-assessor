@@ -1,1 +1,310 @@
-[]
+[
+  {
+    "cik": "1652044",
+    "company": "Alphabet",
+    "accession": "0001652044-26-000066",
+    "release_date": "2026-07-22",
+    "period_end": "2026-06-30",
+    "period_label": "quarter ended 30 June 2026",
+    "figures": {
+      "revenue": {
+        "value": 119796,
+        "unit": "USD millions",
+        "quote": "Revenues | $ | 96,428 | $ | 119,796"
+      },
+      "operating_income": {
+        "value": 40770,
+        "unit": "USD millions",
+        "quote": "Operating income | $ | 31,271 | $ | 40,770"
+      },
+      "net_income": {
+        "value": 112193,
+        "unit": "USD millions",
+        "quote": "Net income | 28,196 | 112,193"
+      },
+      "diluted_eps": {
+        "value": 9.11,
+        "unit": "USD per share",
+        "quote": "Diluted net income per common share | $ | 2.31 | $ | 9.11"
+      }
+    },
+    "guidance": null,
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "Revenues grew 24% year on year and Google Cloud growth accelerated to 82%.",
+        "quote": "Q2 was an amazing quarter, with Alphabet revenues growing 24% year-over-year and Google Cloud revenues accelerating to 82% growth"
+      },
+      {
+        "id": "M2",
+        "topic": "margins",
+        "claim": "Operating income rose 30% and the operating margin widened to 34%.",
+        "quote": "Consolidated Alphabet operating income increased 30% and operating margin expanded by 2 percentage points to 34%."
+      },
+      {
+        "id": "M3",
+        "topic": "profit",
+        "claim": "Other income was a net gain of $98.0 billion, mainly unrealised gains on equity securities.",
+        "quote": "Other income reflected a net gain of $98.0 billion, primarily the result of net unrealized gains on our equity securities."
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO calls the quarter amazing and speaks of momentum across the board."
+    },
+    "picked_from_radar": false,
+    "source_file": "sources/1652044-0001652044-26-000066.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000066/googexhibit991q22026.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000066/0001652044-26-000066-index.htm",
+    "saved_at": "2026-10-27T16:58:26+08:00"
+  },
+  {
+    "cik": "1018724",
+    "company": "Amazon",
+    "accession": "0001018724-26-000024",
+    "release_date": "2026-07-30",
+    "period_end": "2026-06-30",
+    "period_label": "quarter ended 30 June 2026",
+    "figures": {
+      "revenue": {
+        "value": 200606,
+        "unit": "USD millions",
+        "quote": "Total net sales | 167,702 | 200,606"
+      },
+      "operating_income": {
+        "value": 27461,
+        "unit": "USD millions",
+        "quote": "Operating income | 19,171 | 27,461"
+      },
+      "net_income": {
+        "value": 62647,
+        "unit": "USD millions",
+        "quote": "Net income | $ | 18,164 | $ | 62,647"
+      },
+      "diluted_eps": {
+        "value": 5.75,
+        "unit": "USD per share",
+        "quote": "Diluted earnings per share | $ | 1.68 | $ | 5.75"
+      }
+    },
+    "guidance": {
+      "text": "For the third quarter of 2026 Amazon expects net sales of $197.0 billion to $202.0 billion.",
+      "quote": "Net sales are expected to be between $197.0 billion and $202.0 billion, or to grow between 9% and 12% compared with third quarter 2025."
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "AWS grew 36.7% year on year, its fastest growth in 18 quarters.",
+        "quote": "AWS is booming, growing 36.7% year-over-year in Q2—our fastest growth in 18 quarters"
+      },
+      {
+        "id": "M2",
+        "topic": "profit",
+        "claim": "Operating income was $27.5 billion, up 43% year on year.",
+        "quote": "Operating income was $27.5 billion, up 43% year-over-year"
+      },
+      {
+        "id": "M3",
+        "topic": "profit",
+        "claim": "Net income included $53.4 billion of non-operating other income, mainly from investments in Anthropic.",
+        "quote": "Second quarter 2026 net income includes non-operating pre-tax other income of $53.4 billion, primarily from our investments in Anthropic."
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO says AWS is booming and there is much more coming for customers."
+    },
+    "picked_from_radar": false,
+    "source_file": "sources/1018724-0001018724-26-000024.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000024/amzn-20260630xex991.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000024/0001018724-26-000024-index.htm",
+    "saved_at": "2026-10-27T16:58:26+08:00"
+  },
+  {
+    "cik": "1326801",
+    "company": "Meta Platforms",
+    "accession": "0001628280-26-066700",
+    "release_date": "2026-10-21",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 64601,
+        "unit": "USD millions",
+        "quote": "Revenue | $ | 64,601 | $ | 51,242 | 26 | %"
+      },
+      "operating_income": {
+        "value": 12988,
+        "unit": "USD millions",
+        "quote": "Income from operations | $ | 12,988 | $ | 20,535 | (37) | %"
+      },
+      "net_income": {
+        "value": 9860,
+        "unit": "USD millions",
+        "quote": "Net income | $ | 9,860 | $ | 2,709 | 264 | %"
+      },
+      "diluted_eps": {
+        "value": 3.83,
+        "unit": "USD per share",
+        "quote": "Diluted earnings per share (EPS) | $ | 3.83 | $ | 1.05 | 265 | %"
+      }
+    },
+    "guidance": {
+      "text": "Meta expects fourth quarter 2026 total revenue of $73-76 billion.",
+      "quote": "We expect fourth quarter 2026 total revenue to be in the range of $73-76 billion."
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "Revenue was $64.60 billion, up 26% year on year.",
+        "quote": "Revenue – Revenue was $64.60 billion, an increase of 26% year-over-year on both a reported and constant currency basis."
+      },
+      {
+        "id": "M2",
+        "topic": "costs",
+        "claim": "Costs rose 68%, including a $9.89 billion charge for the attorneys general agreement.",
+        "quote": "Third quarter 2026 costs and expenses includes a $9.89 billion charge related to this agreement."
+      },
+      {
+        "id": "M3",
+        "topic": "outlook",
+        "claim": "The CEO says investments are paying off and the core business is strong.",
+        "quote": "Our investments are paying off, the core business is strong, and we're seeing velocity across the board."
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO says investments are paying off and the core business is strong."
+    },
+    "picked_from_radar": false,
+    "source_file": "sources/1326801-0001628280-26-066700.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026066700/meta-09302026xexhibit991.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026066700/0001628280-26-066700-index.htm",
+    "saved_at": "2026-10-27T16:58:26+08:00"
+  },
+  {
+    "cik": "17843",
+    "company": "CARPENTER TECHNOLOGY CORP",
+    "accession": "0000017843-26-000049",
+    "release_date": "2026-10-22",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 798.2,
+        "unit": "USD millions",
+        "quote": "NET SALES | $ | 798.2 | $ | 733.7"
+      },
+      "operating_income": {
+        "value": 196.4,
+        "unit": "USD millions",
+        "quote": "Operating income | $ | 196.4 | $ | 206.9 | $ | 153.3"
+      },
+      "net_income": {
+        "value": 162.5,
+        "unit": "USD millions",
+        "quote": "Net income | $ | 162.5 | $ | 162.4 | $ | 122.5"
+      },
+      "diluted_eps": {
+        "value": 3.25,
+        "unit": "USD per share",
+        "quote": "Earnings per diluted share | $ | 3.25 | $ | 3.23 | $ | 2.43"
+      }
+    },
+    "guidance": {
+      "text": "For the second quarter of fiscal year 2027 the company expects operating income of $192 million to $197 million.",
+      "quote": "For the second quarter of fiscal year 2027, anticipate between $192 million to $197 million in operating income"
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "profit",
+        "claim": "Operating income of $196.4 million was the most profitable first quarter in the company's history.",
+        "quote": "This was the most profitable first quarter in the Company’s history, up 28 percent over the first quarter of fiscal year 2026"
+      },
+      {
+        "id": "M2",
+        "topic": "revenue",
+        "claim": "Demand stepped up, especially in the commercial aerospace supply chain.",
+        "quote": "Notably, in the current quarter we saw a step up in demand, especially in the commercial aerospace supply chain."
+      },
+      {
+        "id": "M3",
+        "topic": "outlook",
+        "claim": "The company maintains its fiscal year 2027 operating income outlook of $850 million to $880 million.",
+        "quote": "We maintain our recently communicated fiscal year 2027 operating income outlook of $850 million to $880 million"
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO reports record results, accelerating demand and additional upside."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/17843-0000017843-26-000049.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/17843/000001784326000049/a1stqtrfy2027results.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/17843/000001784326000049/0000017843-26-000049-index.htm",
+    "saved_at": "2026-10-27T16:58:26+08:00"
+  },
+  {
+    "cik": "912593",
+    "company": "SUN COMMUNITIES INC",
+    "accession": "0000912593-26-000272",
+    "release_date": "2026-10-26",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 558.2,
+        "unit": "USD millions",
+        "quote": "Total Revenues | 558.2 | 555.9"
+      },
+      "operating_income": null,
+      "net_income": {
+        "value": 120.7,
+        "unit": "USD millions",
+        "quote": "Net Income / (Loss) Attributable to SUI Common Shareholders | $ | 120.7 | $ | 8.5"
+      },
+      "diluted_eps": {
+        "value": 1.0,
+        "unit": "USD per share",
+        "quote": "Diluted earnings / (loss) per share | $ | 1.00 | $ | 0.07"
+      }
+    },
+    "guidance": {
+      "text": "For 2026 the company expects Core FFO per share of $7.01 at the midpoint.",
+      "quote": "Expecting Core FFO per Share of $7.01 at the Midpoint"
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "Same Property NOI grew 3.6% for the quarter.",
+        "quote": "Same Property NOI Grew by 3.6% for the Quarter"
+      },
+      {
+        "id": "M2",
+        "topic": "other",
+        "claim": "The CEO says the quarter was strong and results exceeded expectations, led by manufactured housing.",
+        "quote": "We delivered another strong quarter of continued progress, with results exceeding our expectations, led by continued strength in manufactured housing"
+      },
+      {
+        "id": "M3",
+        "topic": "outlook",
+        "claim": "The CEO says 2027 rental rate increases are expected above 2026 levels.",
+        "quote": "With 2027 expected rental rate increases coming in above 2026 levels, we enter next year with a solid foundation in our core business"
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO calls it another strong quarter that exceeded expectations."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/912593-0000912593-26-000272.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/912593/000091259326000272/exhibit991pressreleaseands.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/912593/000091259326000272/0000912593-26-000272-index.htm",
+    "saved_at": "2026-10-27T16:58:26+08:00"
+  }
+]
