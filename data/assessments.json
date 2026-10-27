@@ -1038,5 +1038,213 @@
     "filing_found": false,
     "recheck": false,
     "assessed_at": "2026-10-27T17:00:04+08:00"
+  },
+  {
+    "accession": "0000912593-26-000272",
+    "cik": "912593",
+    "company": "SUN COMMUNITIES INC",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "verdicts": {
+      "revenue": {
+        "verdict": "cannot check",
+        "reason": "No 10-Q figure is filed yet for the quarter to 2026-09-30. The quote is in the release and holds 558.2."
+      },
+      "operating_income": {
+        "verdict": "cannot check",
+        "reason": "The watcher left this figure empty. The release's income table shows no operating income line."
+      },
+      "net_income": {
+        "verdict": "cannot check",
+        "reason": "No 10-Q figure is filed yet. The quote is in the release and holds 120.7 (attributable to common shareholders)."
+      },
+      "diluted_eps": {
+        "verdict": "cannot check",
+        "reason": "No 10-Q figure is filed yet. The quote is in the release and holds 1.00."
+      }
+    },
+    "ratings": {
+      "S1": {
+        "score": 5,
+        "reason": "All three figures given have quotes found in the release that hold their numbers. The 10-Q check is still to come."
+      },
+      "S2": {
+        "score": 5,
+        "reason": "Operating income is empty but the release gives none. Revenue, net income, EPS and Core FFO guidance of $7.01 are present."
+      },
+      "S3": {
+        "score": 4,
+        "reason": "Usable as it stands. Net income is the common-shareholder figure and includes a discontinued loss (EPS 1.07 continuing v 1.00 total)."
+      }
+    },
+    "checks": {
+      "revenue": {
+        "extracted": "558.2 USD millions",
+        "quote_found": true,
+        "number_in_quote": true,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "There is no filed figure yet for the quarter ending 2026-09-30 under Revenues or RevenueFromContractWithCustomerExcludingAssessedTax. The 10-Q (or, for the quarter that ends the fiscal year, the 10-K) may not be filed yet; EPS for that last quarter is never filed on its own; or the company tags this figure another way."
+      },
+      "operating_income": {
+        "extracted": null,
+        "quote_found": null,
+        "number_in_quote": null,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "nothing to check: the watcher left this figure empty (null)"
+      },
+      "net_income": {
+        "extracted": "120.7 USD millions",
+        "quote_found": true,
+        "number_in_quote": true,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "There is no filed figure yet for the quarter ending 2026-09-30 under NetIncomeLoss. The 10-Q (or, for the quarter that ends the fiscal year, the 10-K) may not be filed yet; EPS for that last quarter is never filed on its own; or the company tags this figure another way."
+      },
+      "diluted_eps": {
+        "extracted": "1.00 USD per share",
+        "quote_found": true,
+        "number_in_quote": true,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "There is no filed figure yet for the quarter ending 2026-09-30 under EarningsPerShareDiluted. The 10-Q (or, for the quarter that ends the fiscal year, the 10-K) may not be filed yet; EPS for that last quarter is never filed on its own; or the company tags this figure another way."
+      }
+    },
+    "claims": {
+      "M1": {
+        "verdict": "matches",
+        "reason": "Release text gives Same Property NOI up $10.4m, 3.6%. Its table shows revenue +0.4% (558.2 v 555.9). The -19.9% in the fundamentals uses an older filed base."
+      },
+      "M2": {
+        "verdict": "cannot check",
+        "reason": "Net income 120.7 v 12.1 and EPS 1.00 v 0.07 rose, but filed revenue is -19.9% (release table +0.4%). Expectations and housing cannot be tested."
+      },
+      "M3": {
+        "verdict": "cannot check",
+        "reason": "An outlook claim on 2027 rental rates. Revenue is 558.2 (-19.9% on filed base, +0.4% in release); no rental rate figure exists to test it."
+      }
+    },
+    "tone": {
+      "verdict": "supported",
+      "reason": "Net income rose to 120.7 from 12.1 and EPS to 1.00 from 0.07; release revenue grew 0.4%. The filed revenue base differs."
+    },
+    "fundamentals": [
+      {
+        "key": "revenue",
+        "name": "Revenue (USD millions)",
+        "this_quarter": 558.2,
+        "this_quarter_from": "release",
+        "year_ago": 697.2,
+        "change_year": -19.9,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "operating_income",
+        "name": "Operating income (USD millions)",
+        "this_quarter": null,
+        "this_quarter_from": null,
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "net_income",
+        "name": "Net income (USD millions)",
+        "this_quarter": 120.7,
+        "this_quarter_from": "release",
+        "year_ago": 12.1,
+        "change_year": 897.5,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "diluted_eps",
+        "name": "Diluted EPS (USD)",
+        "this_quarter": 1.0,
+        "this_quarter_from": "release",
+        "year_ago": 0.07,
+        "change_year": 1328.6,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "operating_margin",
+        "name": "Operating margin",
+        "this_quarter": null,
+        "this_quarter_from": null,
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "net_margin",
+        "name": "Net margin",
+        "this_quarter": 21.623074166965246,
+        "this_quarter_from": "release",
+        "year_ago": 1.7355134825014342,
+        "change_year": 19.9,
+        "previous_quarter": null,
+        "change_quarter": null
+      }
+    ],
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "Same Property NOI grew 3.6% for the quarter.",
+        "quote": "Same Property NOI Grew by 3.6% for the Quarter",
+        "quote_found": true
+      },
+      {
+        "id": "M2",
+        "topic": "other",
+        "claim": "The CEO says the quarter was strong and results exceeded expectations, led by manufactured housing.",
+        "quote": "We delivered another strong quarter of continued progress, with results exceeding our expectations, led by continued strength in manufactured housing",
+        "quote_found": true
+      },
+      {
+        "id": "M3",
+        "topic": "outlook",
+        "claim": "The CEO says 2027 rental rate increases are expected above 2026 levels.",
+        "quote": "With 2027 expected rental rate increases coming in above 2026 levels, we enter next year with a solid foundation in our core business",
+        "quote_found": true
+      }
+    ],
+    "watcher_tone": {
+      "label": "positive",
+      "reason": "The CEO calls it another strong quarter that exceeded expectations."
+    },
+    "picked_from_radar": true,
+    "filing_found": false,
+    "recheck": true,
+    "assessed_at": "2026-10-28T06:38:03+08:00"
   }
 ]
