@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-29T08:48:10+08:00",
+  "fetched_at": "2026-10-29T09:13:28+08:00",
   "fetched_by": "the GitHub fetch",
   "offline": false,
   "radar_window": {
@@ -16,121 +16,121 @@
       "name": "Earnings radar, page 1",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-10-27&enddt=2026-10-28",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 371 ms"
+      "detail": "HTTP 200, 60 KB in 167 ms"
     },
     {
       "name": "Earnings radar, page 2",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-10-27&enddt=2026-10-28&from=100",
       "ok": true,
-      "detail": "HTTP 200, 59 KB in 853 ms"
+      "detail": "HTTP 200, 59 KB in 128 ms"
     },
     {
       "name": "Earnings radar, page 3",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-10-27&enddt=2026-10-28&from=200",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 1143 ms"
+      "detail": "HTTP 200, 60 KB in 108 ms"
     },
     {
       "name": "Earnings radar, page 4",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-10-27&enddt=2026-10-28&from=300",
       "ok": true,
-      "detail": "HTTP 200, 61 KB in 335 ms"
+      "detail": "HTTP 200, 61 KB in 152 ms"
     },
     {
       "name": "Earnings radar, page 5",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-10-27&enddt=2026-10-28&from=400",
       "ok": true,
-      "detail": "HTTP 200, 15 KB in 574 ms"
+      "detail": "HTTP 200, 15 KB in 133 ms"
     },
     {
       "name": "Alphabet filings list",
       "url": "https://data.sec.gov/submissions/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 149 KB in 66 ms"
+      "detail": "HTTP 200, 149 KB in 73 ms"
     },
     {
       "name": "Alphabet filing index",
       "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000080/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 50 ms"
+      "detail": "HTTP 200, 1 KB in 33 ms"
     },
     {
       "name": "Alphabet press release",
       "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000080/googexhibit991q32026.htm",
       "ok": true,
-      "detail": "HTTP 200, 361 KB in 93 ms"
+      "detail": "HTTP 200, 361 KB in 97 ms"
     },
     {
       "name": "Amazon filings list",
       "url": "https://data.sec.gov/submissions/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 156 KB in 78 ms"
+      "detail": "HTTP 200, 156 KB in 55 ms"
     },
     {
       "name": "Meta Platforms filings list",
       "url": "https://data.sec.gov/submissions/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 156 KB in 64 ms"
+      "detail": "HTTP 200, 156 KB in 57 ms"
     },
     {
       "name": "Orange County Bancorp, Inc. /DE/ filing index",
       "url": "https://www.sec.gov/Archives/edgar/data/1754226/000094337426000458/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 98 ms"
+      "detail": "HTTP 200, 1 KB in 45 ms"
     },
     {
       "name": "Orange County Bancorp, Inc. /DE/ press release",
       "url": "https://www.sec.gov/Archives/edgar/data/1754226/000094337426000458/ex99-1_8k102826.htm",
       "ok": true,
-      "detail": "HTTP 200, 781 KB in 47 ms"
+      "detail": "HTTP 200, 781 KB in 92 ms"
     },
     {
       "name": "CTS CORP filing index",
       "url": "https://www.sec.gov/Archives/edgar/data/26058/000119312526432724/index.json",
       "ok": true,
-      "detail": "HTTP 200, 3 KB in 26 ms"
+      "detail": "HTTP 200, 3 KB in 38 ms"
     },
     {
       "name": "CTS CORP press release",
       "url": "https://www.sec.gov/Archives/edgar/data/26058/000119312526432724/cts-ex99_1.htm",
       "ok": true,
-      "detail": "HTTP 200, 1,764 KB in 54 ms"
+      "detail": "HTTP 200, 1,764 KB in 315 ms"
     },
     {
       "name": "Alphabet company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 3,090 KB in 213 ms"
+      "detail": "HTTP 200, 3,090 KB in 101 ms"
     },
     {
       "name": "Amazon company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 4,373 KB in 158 ms"
+      "detail": "HTTP 200, 4,373 KB in 79 ms"
     },
     {
       "name": "Meta Platforms company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 2,737 KB in 164 ms"
+      "detail": "HTTP 200, 2,737 KB in 67 ms"
     },
     {
       "name": "Orange County Bancorp, Inc. /DE/ company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001754226.json",
       "ok": true,
-      "detail": "HTTP 200, 1,553 KB in 225 ms"
+      "detail": "HTTP 200, 1,553 KB in 124 ms"
     },
     {
       "name": "CTS CORP company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000026058.json",
       "ok": true,
-      "detail": "HTTP 200, 3,407 KB in 429 ms"
+      "detail": "HTTP 200, 3,407 KB in 299 ms"
     },
     {
       "name": "SUN COMMUNITIES INC company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000912593.json",
       "ok": true,
-      "detail": "HTTP 200, 3,751 KB in 160 ms"
+      "detail": "HTTP 200, 3,751 KB in 316 ms"
     }
   ],
   "files": [
