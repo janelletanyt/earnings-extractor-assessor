@@ -1662,5 +1662,213 @@
     "filing_found": false,
     "recheck": true,
     "assessed_at": "2026-10-30T06:38:38+08:00"
+  },
+  {
+    "accession": "0000912593-26-000272",
+    "cik": "912593",
+    "company": "SUN COMMUNITIES INC",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "verdicts": {
+      "revenue": {
+        "verdict": "cannot check",
+        "reason": "The filed figures could not be read today (network proxy answered 403). The quote is in the release and holds 558.2."
+      },
+      "operating_income": {
+        "verdict": "cannot check",
+        "reason": "The watcher left it empty. The release gives no operating income line, so there is nothing to check."
+      },
+      "net_income": {
+        "verdict": "cannot check",
+        "reason": "The filed figures could not be read today (network proxy answered 403). The quote is in the release and holds 120.7."
+      },
+      "diluted_eps": {
+        "verdict": "cannot check",
+        "reason": "The filed figures could not be read today (network proxy answered 403). The quote is in the release and holds 1.00."
+      }
+    },
+    "ratings": {
+      "S1": {
+        "score": 5,
+        "reason": "All three quotes are in the release and hold their numbers (558.2, 120.7, 1.00). The 10-Q check is still to come, as the SEC could not be read today."
+      },
+      "S2": {
+        "score": 5,
+        "reason": "Revenue, net income and EPS are there, with guidance (Core FFO per share $7.01). Operating income is empty, but the release gives none."
+      },
+      "S3": {
+        "score": 4,
+        "reason": "Usable as it stands, with exact quotes and guidance. The 10-Q figures are still to be checked by hand, and no operating income is given."
+      }
+    },
+    "checks": {
+      "revenue": {
+        "extracted": "558.2 USD millions",
+        "quote_found": true,
+        "number_in_quote": true,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "The filed figures could not be read today (blocked_by_routine_network: data.sec.gov (the network proxy answered 403))."
+      },
+      "operating_income": {
+        "extracted": null,
+        "quote_found": null,
+        "number_in_quote": null,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "nothing to check: the watcher left this figure empty (null)"
+      },
+      "net_income": {
+        "extracted": "120.7 USD millions",
+        "quote_found": true,
+        "number_in_quote": true,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "The filed figures could not be read today (blocked_by_routine_network: data.sec.gov (the network proxy answered 403))."
+      },
+      "diluted_eps": {
+        "extracted": "1.00 USD per share",
+        "quote_found": true,
+        "number_in_quote": true,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "The filed figures could not be read today (blocked_by_routine_network: data.sec.gov (the network proxy answered 403))."
+      }
+    },
+    "claims": {
+      "M1": {
+        "verdict": "cannot check",
+        "reason": "Same Property NOI is not among the fundamentals, and no year-ago revenue was readable today. The release's own text gives NOI up $10.4 million, or 3.6%, so the quote is exact."
+      },
+      "M2": {
+        "verdict": "cannot check",
+        "reason": "No filed year-ago figures were readable. The release's tables show net income of 120.7 against 8.5 and EPS of 1.00 against 0.07 a year ago, but 'exceeded expectations' and manufactured housing cannot be tested."
+      },
+      "M3": {
+        "verdict": "cannot check",
+        "reason": "An outlook claim about 2027 rental rates; no fundamentals or trend were readable today, and the release's tables hold no 2027 rate figure to test it."
+      }
+    },
+    "tone": {
+      "verdict": "supported",
+      "reason": "The release's tables show net income of 120.7 against 8.5 and EPS of 1.00 against 0.07 a year ago, and revenue of 558.2 against 555.9. Filed figures were not readable."
+    },
+    "fundamentals": [
+      {
+        "key": "revenue",
+        "name": "Revenue (USD millions)",
+        "this_quarter": 558.2,
+        "this_quarter_from": "release",
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "operating_income",
+        "name": "Operating income (USD millions)",
+        "this_quarter": null,
+        "this_quarter_from": null,
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "net_income",
+        "name": "Net income (USD millions)",
+        "this_quarter": 120.7,
+        "this_quarter_from": "release",
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "diluted_eps",
+        "name": "Diluted EPS (USD)",
+        "this_quarter": 1.0,
+        "this_quarter_from": "release",
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "operating_margin",
+        "name": "Operating margin",
+        "this_quarter": null,
+        "this_quarter_from": null,
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "net_margin",
+        "name": "Net margin",
+        "this_quarter": 21.623074166965246,
+        "this_quarter_from": "release",
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      }
+    ],
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "Same Property NOI grew 3.6% for the quarter.",
+        "quote": "Same Property NOI Grew by 3.6% for the Quarter",
+        "quote_found": true
+      },
+      {
+        "id": "M2",
+        "topic": "other",
+        "claim": "The CEO says the quarter was strong and results exceeded expectations, led by manufactured housing.",
+        "quote": "We delivered another strong quarter of continued progress, with results exceeding our expectations, led by continued strength in manufactured housing",
+        "quote_found": true
+      },
+      {
+        "id": "M3",
+        "topic": "outlook",
+        "claim": "The CEO says 2027 rental rate increases are expected above 2026 levels.",
+        "quote": "With 2027 expected rental rate increases coming in above 2026 levels, we enter next year with a solid foundation in our core business",
+        "quote_found": true
+      }
+    ],
+    "watcher_tone": {
+      "label": "positive",
+      "reason": "The CEO calls it another strong quarter that exceeded expectations."
+    },
+    "picked_from_radar": true,
+    "filing_found": false,
+    "recheck": true,
+    "assessed_at": "2026-10-31T06:38:06+08:00"
   }
 ]
