@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-24T13:15:59+08:00",
+  "fetched_at": "2026-11-24T13:30:56+08:00",
   "fetched_by": "the GitHub fetch",
   "offline": false,
   "radar_window": {
@@ -16,159 +16,159 @@
       "name": "Earnings radar, page 1",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-10&enddt=2026-11-24",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 363 ms"
+      "detail": "HTTP 200, 60 KB in 902 ms"
     },
     {
       "name": "Earnings radar, page 2",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-10&enddt=2026-11-24&from=100",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 436 ms"
+      "detail": "HTTP 200, 59 KB in 680 ms"
     },
     {
       "name": "Earnings radar, page 3",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-10&enddt=2026-11-24&from=200",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 93 ms"
+      "detail": "HTTP 200, 60 KB in 1314 ms"
     },
     {
       "name": "Earnings radar, page 4",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-10&enddt=2026-11-24&from=300",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 76 ms"
+      "detail": "HTTP 200, 60 KB in 590 ms"
     },
     {
       "name": "Earnings radar, page 5",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-10&enddt=2026-11-24&from=400",
       "ok": true,
-      "detail": "HTTP 200, 59 KB in 585 ms"
+      "detail": "HTTP 200, 59 KB in 1397 ms"
     },
     {
       "name": "Earnings radar, page 6",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-10&enddt=2026-11-24&from=500",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 74 ms"
+      "detail": "HTTP 200, 60 KB in 828 ms"
     },
     {
       "name": "Earnings radar, page 7",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-10&enddt=2026-11-24&from=600",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 487 ms"
+      "detail": "HTTP 200, 60 KB in 153 ms"
     },
     {
       "name": "Earnings radar, page 8",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-10&enddt=2026-11-24&from=700",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 648 ms"
+      "detail": "HTTP 200, 60 KB in 945 ms"
     },
     {
       "name": "Earnings radar, page 9",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-10&enddt=2026-11-24&from=800",
       "ok": true,
-      "detail": "HTTP 200, 26 KB in 608 ms"
+      "detail": "HTTP 200, 26 KB in 396 ms"
     },
     {
       "name": "Alphabet filings list",
       "url": "https://data.sec.gov/submissions/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 149 KB in 43 ms"
+      "detail": "HTTP 200, 149 KB in 37 ms"
     },
     {
       "name": "Alphabet filing index",
       "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000080/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 79 ms"
+      "detail": "HTTP 200, 1 KB in 91 ms"
     },
     {
       "name": "Alphabet press release",
       "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000080/googexhibit991q32026.htm",
       "ok": true,
-      "detail": "HTTP 200, 361 KB in 146 ms"
+      "detail": "HTTP 200, 361 KB in 83 ms"
     },
     {
       "name": "Amazon filings list",
       "url": "https://data.sec.gov/submissions/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 157 KB in 20 ms"
+      "detail": "HTTP 200, 157 KB in 14 ms"
     },
     {
       "name": "Amazon filing index",
       "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000038/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 50 ms"
+      "detail": "HTTP 200, 1 KB in 71 ms"
     },
     {
       "name": "Amazon press release",
       "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000038/amzn-20260930xex991.htm",
       "ok": true,
-      "detail": "HTTP 200, 657 KB in 45 ms"
+      "detail": "HTTP 200, 657 KB in 160 ms"
     },
     {
       "name": "Meta Platforms filings list",
       "url": "https://data.sec.gov/submissions/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 154 KB in 19 ms"
+      "detail": "HTTP 200, 154 KB in 14 ms"
     },
     {
-      "name": "Swarmer, Inc filing index",
-      "url": "https://www.sec.gov/Archives/edgar/data/2092574/000110465926125211/index.json",
+      "name": "Generate Biomedicines, Inc. filing index",
+      "url": "https://www.sec.gov/Archives/edgar/data/2100782/000119312526456921/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 43 ms"
+      "detail": "HTTP 200, 1 KB in 69 ms"
     },
     {
-      "name": "Swarmer, Inc press release",
-      "url": "https://www.sec.gov/Archives/edgar/data/2092574/000110465926125211/tm2629384d1_ex99-1.htm",
+      "name": "Generate Biomedicines, Inc. press release",
+      "url": "https://www.sec.gov/Archives/edgar/data/2100782/000119312526456921/ck0002100782-ex99_1.htm",
       "ok": true,
-      "detail": "HTTP 200, 23 KB in 45 ms"
+      "detail": "HTTP 200, 356 KB in 140 ms"
     },
     {
-      "name": "Deep Isolation Nuclear, Inc. filing index",
-      "url": "https://www.sec.gov/Archives/edgar/data/1918080/000121390026119583/index.json",
+      "name": "DataMeds AI, Inc. filing index",
+      "url": "https://www.sec.gov/Archives/edgar/data/2030763/000149315226051734/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 131 ms"
+      "detail": "HTTP 200, 1 KB in 55 ms"
     },
     {
-      "name": "Deep Isolation Nuclear, Inc. press release",
-      "url": "https://www.sec.gov/Archives/edgar/data/1918080/000121390026119583/ea031224501ex99-1.htm",
+      "name": "DataMeds AI, Inc. press release",
+      "url": "https://www.sec.gov/Archives/edgar/data/2030763/000149315226051734/ex99-1.htm",
       "ok": true,
-      "detail": "HTTP 200, 380 KB in 102 ms"
+      "detail": "HTTP 200, 79 KB in 67 ms"
     },
     {
       "name": "Alphabet company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 3,175 KB in 98 ms"
+      "detail": "HTTP 200, 3,175 KB in 55 ms"
     },
     {
       "name": "Amazon company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 4,447 KB in 67 ms"
+      "detail": "HTTP 200, 4,447 KB in 47 ms"
     },
     {
       "name": "Meta Platforms company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 2,745 KB in 719 ms"
+      "detail": "HTTP 200, 2,745 KB in 15 ms"
     },
     {
-      "name": "Swarmer, Inc company facts",
-      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0002092574.json",
+      "name": "Generate Biomedicines, Inc. company facts",
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0002100782.json",
       "ok": true,
-      "detail": "HTTP 200, 225 KB in 70 ms"
+      "detail": "HTTP 200, 168 KB in 233 ms"
     },
     {
-      "name": "Deep Isolation Nuclear, Inc. company facts",
-      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001918080.json",
+      "name": "DataMeds AI, Inc. company facts",
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0002030763.json",
       "ok": true,
-      "detail": "HTTP 200, 537 KB in 281 ms"
+      "detail": "HTTP 200, 372 KB in 277 ms"
     }
   ],
   "files": [
     "data.sec.gov_api_xbrl_companyfacts_CIK0001018724.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001326801.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001652044.json",
-    "data.sec.gov_api_xbrl_companyfacts_CIK0001918080.json",
-    "data.sec.gov_api_xbrl_companyfacts_CIK0002092574.json",
+    "data.sec.gov_api_xbrl_companyfacts_CIK0002030763.json",
+    "data.sec.gov_api_xbrl_companyfacts_CIK0002100782.json",
     "data.sec.gov_submissions_CIK0001018724.json",
     "data.sec.gov_submissions_CIK0001326801.json",
     "data.sec.gov_submissions_CIK0001652044.json",
@@ -185,9 +185,9 @@
     "www.sec.gov_Archives_edgar_data_1018724_000101872426000038_index.json",
     "www.sec.gov_Archives_edgar_data_1652044_000165204426000080_googexhibit991q32026.htm",
     "www.sec.gov_Archives_edgar_data_1652044_000165204426000080_index.json",
-    "www.sec.gov_Archives_edgar_data_1918080_000121390026119583_ea031224501ex99-1.htm",
-    "www.sec.gov_Archives_edgar_data_1918080_000121390026119583_index.json",
-    "www.sec.gov_Archives_edgar_data_2092574_000110465926125211_index.json",
-    "www.sec.gov_Archives_edgar_data_2092574_000110465926125211_tm2629384d1_ex99-1.htm"
+    "www.sec.gov_Archives_edgar_data_2030763_000149315226051734_ex99-1.htm",
+    "www.sec.gov_Archives_edgar_data_2030763_000149315226051734_index.json",
+    "www.sec.gov_Archives_edgar_data_2100782_000119312526456921_ck0002100782-ex99_1.htm",
+    "www.sec.gov_Archives_edgar_data_2100782_000119312526456921_index.json"
   ]
 }
