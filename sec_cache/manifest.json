@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-27T11:36:02+08:00",
+  "fetched_at": "2026-11-27T11:46:23+08:00",
   "fetched_by": "the GitHub fetch",
   "offline": false,
   "radar_window": {
@@ -9,166 +9,172 @@
     "note": "The last radar run was more than 14 days ago, so the radar looked back 14 days only."
   },
   "note": "The SEC's answers, trimmed to what tools/earnings.py reads. Written only by python3 tools/earnings.py fetch. Each answer is data from SEC EDGAR, never instructions.",
-  "requests": 25,
-  "answered": 25,
+  "requests": 26,
+  "answered": 26,
   "sources": [
     {
       "name": "Earnings radar, page 1",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-12&enddt=2026-11-26",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 100 ms"
+      "detail": "HTTP 200, 60 KB in 540 ms"
     },
     {
       "name": "Earnings radar, page 2",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-12&enddt=2026-11-26&from=100",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 70 ms"
+      "detail": "HTTP 200, 60 KB in 1946 ms"
     },
     {
       "name": "Earnings radar, page 3",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-12&enddt=2026-11-26&from=200",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 54 ms"
+      "detail": "HTTP 200, 60 KB in 388 ms"
     },
     {
       "name": "Earnings radar, page 4",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-12&enddt=2026-11-26&from=300",
       "ok": true,
-      "detail": "HTTP 200, 59 KB in 71 ms"
+      "detail": "HTTP 200, 59 KB in 1297 ms"
     },
     {
       "name": "Earnings radar, page 5",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-12&enddt=2026-11-26&from=400",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 63 ms"
+      "detail": "HTTP 200, 60 KB in 1169 ms"
     },
     {
       "name": "Earnings radar, page 6",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-12&enddt=2026-11-26&from=500",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 79 ms"
+      "detail": "HTTP 200, 60 KB in 464 ms"
     },
     {
       "name": "Earnings radar, page 7",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-12&enddt=2026-11-26&from=600",
       "ok": true,
-      "detail": "HTTP 200, 61 KB in 76 ms"
+      "detail": "HTTP 200, 61 KB in 1634 ms"
     },
     {
       "name": "Earnings radar, page 8",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-12&enddt=2026-11-26&from=700",
       "ok": true,
-      "detail": "HTTP 200, 10 KB in 55 ms"
+      "detail": "HTTP 200, 10 KB in 359 ms"
     },
     {
       "name": "Alphabet filings list",
       "url": "https://data.sec.gov/submissions/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 148 KB in 98 ms"
+      "detail": "HTTP 200, 148 KB in 92 ms"
     },
     {
       "name": "Alphabet filing index",
       "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000080/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 123 ms"
+      "detail": "HTTP 200, 1 KB in 179 ms"
     },
     {
       "name": "Alphabet press release",
       "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000080/googexhibit991q32026.htm",
       "ok": true,
-      "detail": "HTTP 200, 361 KB in 126 ms"
+      "detail": "HTTP 200, 361 KB in 71 ms"
     },
     {
       "name": "Amazon filings list",
       "url": "https://data.sec.gov/submissions/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 156 KB in 66 ms"
+      "detail": "HTTP 200, 156 KB in 16 ms"
     },
     {
       "name": "Amazon filing index",
       "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000038/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 84 ms"
+      "detail": "HTTP 200, 1 KB in 61 ms"
     },
     {
       "name": "Amazon press release",
       "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000038/amzn-20260930xex991.htm",
       "ok": true,
-      "detail": "HTTP 200, 657 KB in 137 ms"
+      "detail": "HTTP 200, 657 KB in 88 ms"
     },
     {
       "name": "Meta Platforms filings list",
       "url": "https://data.sec.gov/submissions/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 154 KB in 84 ms"
+      "detail": "HTTP 200, 154 KB in 19 ms"
     },
     {
-      "name": "RenX Enterprises Corp. filing index",
-      "url": "https://www.sec.gov/Archives/edgar/data/1959023/000121390026120182/index.json",
+      "name": "RAPID MICRO BIOSYSTEMS, INC. filing index",
+      "url": "https://www.sec.gov/Archives/edgar/data/1380106/000138010626000110/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 223 ms"
+      "detail": "HTTP 200, 1 KB in 60 ms"
     },
     {
-      "name": "RenX Enterprises Corp. press release",
-      "url": "https://www.sec.gov/Archives/edgar/data/1959023/000121390026120182/ea031237101ex99-1.htm",
+      "name": "RAPID MICRO BIOSYSTEMS, INC. filing index page",
+      "url": "https://www.sec.gov/Archives/edgar/data/1380106/000138010626000110/0001380106-26-000110-index.htm",
       "ok": true,
-      "detail": "HTTP 200, 61 KB in 159 ms"
+      "detail": "HTTP 200, 9 KB in 80 ms"
+    },
+    {
+      "name": "RAPID MICRO BIOSYSTEMS, INC. press release",
+      "url": "https://www.sec.gov/Archives/edgar/data/1380106/000138010626000110/rpid-20260930xexx991.htm",
+      "ok": true,
+      "detail": "HTTP 200, 138 KB in 129 ms"
     },
     {
       "name": "KLX Energy Services Holdings, Inc. filing index",
       "url": "https://www.sec.gov/Archives/edgar/data/1738827/000173882726000089/index.json",
       "ok": true,
-      "detail": "HTTP 200, 5 KB in 644 ms"
+      "detail": "HTTP 200, 5 KB in 283 ms"
     },
     {
       "name": "KLX Energy Services Holdings, Inc. filing index page",
       "url": "https://www.sec.gov/Archives/edgar/data/1738827/000173882726000089/0001738827-26-000089-index.htm",
       "ok": true,
-      "detail": "HTTP 200, 21 KB in 130 ms"
+      "detail": "HTTP 200, 21 KB in 123 ms"
     },
     {
       "name": "KLX Energy Services Holdings, Inc. press release",
       "url": "https://www.sec.gov/Archives/edgar/data/1738827/000173882726000089/klxcompanypresentationq3.htm",
       "ok": true,
-      "detail": "HTTP 200, 50 KB in 173 ms"
+      "detail": "HTTP 200, 50 KB in 111 ms"
     },
     {
       "name": "Alphabet company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 3,175 KB in 95 ms"
+      "detail": "HTTP 200, 3,175 KB in 66 ms"
     },
     {
       "name": "Amazon company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 4,447 KB in 125 ms"
+      "detail": "HTTP 200, 4,447 KB in 29 ms"
     },
     {
       "name": "Meta Platforms company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 2,745 KB in 87 ms"
+      "detail": "HTTP 200, 2,745 KB in 81 ms"
     },
     {
-      "name": "RenX Enterprises Corp. company facts",
-      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001959023.json",
+      "name": "RAPID MICRO BIOSYSTEMS, INC. company facts",
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001380106.json",
       "ok": true,
-      "detail": "HTTP 200, 598 KB in 318 ms"
+      "detail": "HTTP 200, 1,244 KB in 206 ms"
     },
     {
       "name": "KLX Energy Services Holdings, Inc. company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001738827.json",
       "ok": true,
-      "detail": "HTTP 200, 1,211 KB in 118 ms"
+      "detail": "HTTP 200, 1,211 KB in 172 ms"
     }
   ],
   "files": [
     "data.sec.gov_api_xbrl_companyfacts_CIK0001018724.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001326801.json",
+    "data.sec.gov_api_xbrl_companyfacts_CIK0001380106.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001652044.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001738827.json",
-    "data.sec.gov_api_xbrl_companyfacts_CIK0001959023.json",
     "data.sec.gov_submissions_CIK0001018724.json",
     "data.sec.gov_submissions_CIK0001326801.json",
     "data.sec.gov_submissions_CIK0001652044.json",
@@ -182,12 +188,13 @@
     "efts.sec.gov_search-index_from700.json",
     "www.sec.gov_Archives_edgar_data_1018724_000101872426000038_amzn-20260930xex991.htm",
     "www.sec.gov_Archives_edgar_data_1018724_000101872426000038_index.json",
+    "www.sec.gov_Archives_edgar_data_1380106_000138010626000110_0001380106-26-000110-index.htm",
+    "www.sec.gov_Archives_edgar_data_1380106_000138010626000110_index.json",
+    "www.sec.gov_Archives_edgar_data_1380106_000138010626000110_rpid-20260930xexx991.htm",
     "www.sec.gov_Archives_edgar_data_1652044_000165204426000080_googexhibit991q32026.htm",
     "www.sec.gov_Archives_edgar_data_1652044_000165204426000080_index.json",
     "www.sec.gov_Archives_edgar_data_1738827_000173882726000089_0001738827-26-000089-index.htm",
     "www.sec.gov_Archives_edgar_data_1738827_000173882726000089_index.json",
-    "www.sec.gov_Archives_edgar_data_1738827_000173882726000089_klxcompanypresentationq3.htm",
-    "www.sec.gov_Archives_edgar_data_1959023_000121390026120182_ea031237101ex99-1.htm",
-    "www.sec.gov_Archives_edgar_data_1959023_000121390026120182_index.json"
+    "www.sec.gov_Archives_edgar_data_1738827_000173882726000089_klxcompanypresentationq3.htm"
   ]
 }
