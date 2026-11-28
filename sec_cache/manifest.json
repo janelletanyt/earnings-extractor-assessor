@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-28T11:13:27+08:00",
+  "fetched_at": "2026-11-28T11:30:13+08:00",
   "fetched_by": "the GitHub fetch",
   "offline": false,
   "radar_window": {
@@ -16,135 +16,135 @@
       "name": "Earnings radar, page 1",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-13&enddt=2026-11-27",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 62 ms"
+      "detail": "HTTP 200, 60 KB in 261 ms"
     },
     {
       "name": "Earnings radar, page 2",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-13&enddt=2026-11-27&from=100",
       "ok": true,
-      "detail": "HTTP 200, 59 KB in 45 ms"
+      "detail": "HTTP 200, 60 KB in 114 ms"
     },
     {
       "name": "Earnings radar, page 3",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-13&enddt=2026-11-27&from=200",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 68 ms"
+      "detail": "HTTP 200, 60 KB in 820 ms"
     },
     {
       "name": "Earnings radar, page 4",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-13&enddt=2026-11-27&from=300",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 24 ms"
+      "detail": "HTTP 200, 60 KB in 871 ms"
     },
     {
       "name": "Earnings radar, page 5",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-13&enddt=2026-11-27&from=400",
       "ok": true,
-      "detail": "HTTP 200, 16 KB in 21 ms"
+      "detail": "HTTP 200, 16 KB in 945 ms"
     },
     {
       "name": "Alphabet filings list",
       "url": "https://data.sec.gov/submissions/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 148 KB in 52 ms"
+      "detail": "HTTP 200, 148 KB in 158 ms"
     },
     {
       "name": "Alphabet filing index",
       "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000080/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 159 ms"
+      "detail": "HTTP 200, 1 KB in 171 ms"
     },
     {
       "name": "Alphabet press release",
       "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000080/googexhibit991q32026.htm",
       "ok": true,
-      "detail": "HTTP 200, 361 KB in 108 ms"
+      "detail": "HTTP 200, 361 KB in 127 ms"
     },
     {
       "name": "Amazon filings list",
       "url": "https://data.sec.gov/submissions/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 156 KB in 17 ms"
+      "detail": "HTTP 200, 156 KB in 159 ms"
     },
     {
       "name": "Amazon filing index",
       "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000038/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 74 ms"
+      "detail": "HTTP 200, 1 KB in 95 ms"
     },
     {
       "name": "Amazon press release",
       "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000038/amzn-20260930xex991.htm",
       "ok": true,
-      "detail": "HTTP 200, 657 KB in 145 ms"
+      "detail": "HTTP 200, 657 KB in 300 ms"
     },
     {
       "name": "Meta Platforms filings list",
       "url": "https://data.sec.gov/submissions/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 153 KB in 16 ms"
+      "detail": "HTTP 200, 153 KB in 134 ms"
     },
     {
-      "name": "StableCoinX Inc. filing index",
-      "url": "https://www.sec.gov/Archives/edgar/data/2080215/000121390026120186/index.json",
+      "name": "STEM, INC. filing index",
+      "url": "https://www.sec.gov/Archives/edgar/data/1758766/000175876626000092/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 178 ms"
+      "detail": "HTTP 200, 1 KB in 522 ms"
     },
     {
-      "name": "StableCoinX Inc. press release",
-      "url": "https://www.sec.gov/Archives/edgar/data/2080215/000121390026120186/ea031225601ex99-1.htm",
+      "name": "STEM, INC. press release",
+      "url": "https://www.sec.gov/Archives/edgar/data/1758766/000175876626000092/exhibit99-8xkx20261116xq32.htm",
       "ok": true,
-      "detail": "HTTP 200, 82 KB in 231 ms"
+      "detail": "HTTP 200, 360 KB in 736 ms"
     },
     {
-      "name": "Post Holdings, Inc. filing index",
-      "url": "https://www.sec.gov/Archives/edgar/data/1530950/000153095026000100/index.json",
+      "name": "ROSS STORES, INC. filing index",
+      "url": "https://www.sec.gov/Archives/edgar/data/745732/000074573226000047/index.json",
       "ok": true,
-      "detail": "HTTP 200, 2 KB in 178 ms"
+      "detail": "HTTP 200, 1 KB in 117 ms"
     },
     {
-      "name": "Post Holdings, Inc. press release",
-      "url": "https://www.sec.gov/Archives/edgar/data/1530950/000153095026000100/ex99-1q42026er.htm",
+      "name": "ROSS STORES, INC. press release",
+      "url": "https://www.sec.gov/Archives/edgar/data/745732/000074573226000047/q326exhibit991.htm",
       "ok": true,
-      "detail": "HTTP 200, 664 KB in 677 ms"
+      "detail": "HTTP 200, 145 KB in 331 ms"
     },
     {
       "name": "Alphabet company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 3,175 KB in 91 ms"
+      "detail": "HTTP 200, 3,175 KB in 81 ms"
     },
     {
       "name": "Amazon company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 4,447 KB in 69 ms"
+      "detail": "HTTP 200, 4,447 KB in 96 ms"
     },
     {
       "name": "Meta Platforms company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 2,745 KB in 39 ms"
+      "detail": "HTTP 200, 2,745 KB in 169 ms"
     },
     {
-      "name": "StableCoinX Inc. company facts",
-      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0002080215.json",
+      "name": "STEM, INC. company facts",
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001758766.json",
       "ok": true,
-      "detail": "HTTP 200, 110 KB in 78 ms"
+      "detail": "HTTP 200, 1,523 KB in 168 ms"
     },
     {
-      "name": "Post Holdings, Inc. company facts",
-      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001530950.json",
+      "name": "ROSS STORES, INC. company facts",
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000745732.json",
       "ok": true,
-      "detail": "HTTP 200, 3,631 KB in 215 ms"
+      "detail": "HTTP 200, 2,983 KB in 170 ms"
     }
   ],
   "files": [
+    "data.sec.gov_api_xbrl_companyfacts_CIK0000745732.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001018724.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001326801.json",
-    "data.sec.gov_api_xbrl_companyfacts_CIK0001530950.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001652044.json",
-    "data.sec.gov_api_xbrl_companyfacts_CIK0002080215.json",
+    "data.sec.gov_api_xbrl_companyfacts_CIK0001758766.json",
     "data.sec.gov_submissions_CIK0001018724.json",
     "data.sec.gov_submissions_CIK0001326801.json",
     "data.sec.gov_submissions_CIK0001652044.json",
@@ -155,11 +155,11 @@
     "efts.sec.gov_search-index_from400.json",
     "www.sec.gov_Archives_edgar_data_1018724_000101872426000038_amzn-20260930xex991.htm",
     "www.sec.gov_Archives_edgar_data_1018724_000101872426000038_index.json",
-    "www.sec.gov_Archives_edgar_data_1530950_000153095026000100_ex99-1q42026er.htm",
-    "www.sec.gov_Archives_edgar_data_1530950_000153095026000100_index.json",
     "www.sec.gov_Archives_edgar_data_1652044_000165204426000080_googexhibit991q32026.htm",
     "www.sec.gov_Archives_edgar_data_1652044_000165204426000080_index.json",
-    "www.sec.gov_Archives_edgar_data_2080215_000121390026120186_ea031225601ex99-1.htm",
-    "www.sec.gov_Archives_edgar_data_2080215_000121390026120186_index.json"
+    "www.sec.gov_Archives_edgar_data_1758766_000175876626000092_exhibit99-8xkx20261116xq32.htm",
+    "www.sec.gov_Archives_edgar_data_1758766_000175876626000092_index.json",
+    "www.sec.gov_Archives_edgar_data_745732_000074573226000047_index.json",
+    "www.sec.gov_Archives_edgar_data_745732_000074573226000047_q326exhibit991.htm"
   ]
 }
